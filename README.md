@@ -72,7 +72,7 @@ If this dashboard didn’t exist, a stakeholder would still be guessing. With it
 
 - `bike_sales_dashboard.xlsx` – Interactive Excel dashboard
 - `README.md` – Project summary and usage instructions
-- `dashboard_preview.png` – Screenshot of the dashboard view (optional)
+
 
 ---
 
